@@ -5,13 +5,18 @@
     
 }
 
-
 .form-floating{
     margin: 5px 0;
+}
+
+span{
+    color: red;
 }
 
 #btn-cadastro{
     margin-top: 5px;
     width: 100%;
 }
+
+
 
